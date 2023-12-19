@@ -18,7 +18,7 @@ jinja2==3.1.2
 jsonschema==4.20.0
 jsonschema-specifications==2023.11.2
 
-libffi==3.4.2
+
 libsqlite==3.44.2
 libzlib==1.2.13
 markdown-it-py==3.0.0
