@@ -8,7 +8,6 @@ gitpython==3.1.40
 idna==3.6
 importlib-metadata==6.11.0
 numpy==1.26.2
-openssl==3.2.0==hcfcfb64_1
 packaging==23.2
 pandas==2.1.4
 pillow==10.1.0
