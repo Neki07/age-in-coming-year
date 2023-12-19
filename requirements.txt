@@ -2,7 +2,6 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 altair==5.2.0==pypi_0
-attrs==23.1.0==pypi_0
 blinker==1.7.0==pypi_0
 bzip2==1.0.8==hcfcfb64_5
 ca-certificates==2023.11.17==h56e8100_0
