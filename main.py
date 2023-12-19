@@ -70,7 +70,7 @@ def image_editing(current_year, user_year, age):
             mime="image/png"
             )
         
-    os.remove("age.png")
+        os.remove("age.png")
     
 
 
