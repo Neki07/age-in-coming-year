@@ -19,7 +19,7 @@ jsonschema==4.20.0
 jsonschema-specifications==2023.11.2
 
 
-libsqlite==3.44.2
+
 libzlib==1.2.13
 markdown-it-py==3.0.0
 markupsafe==2.1.3
