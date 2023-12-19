@@ -7,22 +7,22 @@ gitdb==4.0.11
 gitpython==3.1.40
 idna==3.6
 importlib-metadata==6.11.0
-numpy==1.26.2==pypi_0
+numpy==1.26.2
 openssl==3.2.0==hcfcfb64_1
 packaging==23.2
 pandas==2.1.4
 pillow==10.1.0
 pip==23.3.2==pyhd8ed1ab_0
-pyarrow==14.0.2==pypi_0
-pydeck==0.8.1b0==pypi_0
-pygments==2.17.2==pypi_0
+pyarrow==14.0.2
+pydeck==0.8.1b0
+pygments==2.17.2
 python==3.12.0==h2628c8c_0_cpython
-python-dateutil==2.8.2==pypi_0
-pytz==2023.3.post1==pypi_0
-referencing==0.32.0==pypi_0
-requests==2.31.0==pypi_0
-setuptools==68.2.2==pyhd8ed1ab_0
-streamlit==1.29.0==pypi_0
+python-dateutil==2.8.2
+pytz==2023.3.post1
+referencing==0.32.0
+requests==2.31.0
+setuptools==68.2.2
+streamlit==1.29.0
 
 
 
