@@ -58,7 +58,7 @@ urllib3==2.1.0
 validators==0.22.0
 vc==2018.7.10
 
-vs2015_runtime==14.38.33130
+
 watchdog==3.0.0
 wheel==0.42.0
 xz==5.2.6
