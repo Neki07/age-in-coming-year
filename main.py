@@ -60,7 +60,7 @@ def image_editing(current_year, user_year, age):
     Im.text(((size[0] * 2/3), size[1] * 2/3), str(age), (0,0,0), font=age_font)
 
     im.save("age.png")
-    st.image('age.png', caption='haha you are getting older TT')
+    st.image('age.png', caption='haha you are getting older TT. (P.S Credit to original photo owner and Khaby Lame)')
 
     with open("age.png", "rb") as file:
         btn = st.download_button(
