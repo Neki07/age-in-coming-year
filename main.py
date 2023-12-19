@@ -47,9 +47,9 @@ def image_editing(current_year, user_year, age):
 
     Im = ImageDraw.Draw(im)
     #font = ImageFont.load("arial.pil")
-    year_font = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 75)
-    user_year_font = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 150)
-    age_font = ImageFont.truetype('Pillow/Tests/fonts/FreeMono.ttf', 250)
+    year_font = ImageFont.FreeTypeFont('Pillow/Tests/fonts/FreeMono.ttf', 75)
+    user_year_font = ImageFont.FreeTypeFont('Pillow/Tests/fonts/FreeMono.ttf', 150)
+    age_font = ImageFont.FreeTypeFont('Pillow/Tests/fonts/FreeMono.ttf', 250)
 
     size = (im.size)
 
