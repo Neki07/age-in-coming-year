@@ -35,7 +35,7 @@ def calculating_current_year():
 
 def calculating_age(year, user_year):
     
-    age = year - user_year
+    age = year - user_year + 1
 
     return age
 
@@ -53,7 +53,7 @@ def image_editing(current_year, user_year, age):
 
     size = (im.size)
 
-    Im.text((((size[0] * 2/3) + 50),75), ("In " + str(current_year)), (0,0,255), font=year_font)
+    Im.text((((size[0] * 2/3) + 50),75), ("In " + str(current_year + 1)), (0,0,255), font=year_font)
 
     Im.text(((size[0] * 2/3), size[1]/4), str(user_year), (255,0,0), font=user_year_font)
     
