@@ -35,7 +35,7 @@ def calculating_current_year():
 
 def calculating_age(year, user_year):
     
-    age = year - user_year + 1
+    age = year - user_year
 
     return age
 
